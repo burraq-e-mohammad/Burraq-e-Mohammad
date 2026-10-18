@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Dynamic Futuristic Header with Waving Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Burraq%20E%20Mohammad&fontSize=70&fontAlignY=35&desc=Gold%20Medalist%F0%9F%A5%87%20%7C%20Software%20Engineer%20%7C%20DevOps%20%7C%20AWS%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%7C%20N8N%20%7C%20Agile%20Practitioner&descAlignY=55&descAlign=50&descSize=15&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Burraq%20E%20Mohammad&fontSize=70&fontAlignY=35&desc=Gold%20Medalist%F0%9F%A5%87%20%7C%20AI%20Engineer%20%7C%20MLOps%20%7C%20DevSecOps%20%7C%20Full-Stack%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50&descSize=15&animation=twinkling" width="100%" alt="Header Banner" />
   
   <!-- Cyberpunk Typing Effect (Orbitron Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Secure+Cloud+Infrastructures;Building+Scalable+Full-Stack+Applications;Integrating+AI+in+CI%2FCD+Pipelines;Winning+Hackathons+(1st+Place+Pakathon+2025)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Bridging+Intelligent+Models+to+Production+Scale;Architecting+Secure+Cloud+%26+MLOps+Pipelines;Building+End-to-End+Resilient+AI+Systems;1st+Place+Winner+%40+Pakathon+VieroMind+2025" alt="Typing SVG" />
   </a>
   
   <br><br>
@@ -30,19 +30,19 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> About Me
 
 <div align="center">
-  <!-- Fixed: Bulletproof 3D Animated Robot Head -->
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="180" alt="3D Animated Robot" />
   
   <p align="left">
-    Motivated <b>Software Engineering graduate (Gold Medalist, 3.73 CGPA)</b> with expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and deploying on cloud platforms.
+    I am a <b>Gold Medalist Software Engineering graduate (3.73 CGPA)</b> who has systematically evolved from full-stack web development through DevSecOps into <b>AI Engineering</b>—my definitive career domain.
   </p>
   <p align="left">
-    Committed to <b>shift-left security</b>, modern CI/CD practices, and delivering fast, secure, and reliable software. Proven ability to thrive in fast-paced environments, evidenced by winning <b>1st Place at Pakathon VieroMind 2025</b> (24-hour hackathon).
+    With practical roots in building robust web applications and automating production-grade cloud environments via <b>CI/CD, containerization, and IaC</b>, I apply architectural rigor to <b>designing, fine-tuning, and deploying resilient AI/ML systems</b>. Combining software craftsmanship, a strict <b>"shift-left" security mindset</b>, and modern AI frameworks, my focus is bridging the gap between intelligent models and dependable, production-ready scale.
   </p>
   <ul align="left">
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20"/> Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> <b>Currently engineering:</b> Production-grade GenAI pipelines, LLM fine-tuning/orchestration, and self-healing MLOps architectures.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/> <b>Core focus:</b> Agentic workflows, RAG architectures, model observability, and cloud optimization (FinOps).</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20"/> <b>Ask me about:</b> Python, PyTorch, LangChain, CI/CD, Containerization, and Shift-Left Application Security.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20"/> <b>Beyond the terminal:</b> Football, table tennis, badminton, cricket, and strategic/narrative gaming (Resident Evil, EA Sports FC).</li>
   </ul>
 </div>
 
@@ -55,7 +55,18 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="25" /> Technical Arsenal
 
 <p align="center">
-  <b>☁️ Cloud & CI/CD</b><br><br>
+  <b>🧠 AI, Machine Learning & MLOps</b><br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>☁️ Cloud, DevSecOps & Orchestration</b><br><br>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -63,6 +74,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <p align="center">
@@ -74,15 +86,8 @@
 </p>
 
 <p align="center">
-  <b>💻 Frontend</b><br><br>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>⚙️ Backend</b><br><br>
+  <b>⚙️ Backend & APIs</b><br><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
@@ -90,18 +95,19 @@
 </p>
 
 <p align="center">
-  <b>🗄️ Databases</b><br><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <b>💻 Frontend & Web</b><br><br>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>🛠️ Languages</b><br><br>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <b>🗄️ Databases & Caching</b><br><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <div align="center">
@@ -112,23 +118,23 @@
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> **Self-Healing AI CI/CD Pipeline**  
 > Architected an autonomous pipeline to intercept build failures, analyze step logs for root-cause using AI, and automatically push syntax-accurate code remediations.  
-> `n8n` `GitHub Actions` `OpenAI`
-
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="20" /> **Therapist Finder** *(1st Place Winner)*  
-> A full-stack app connecting patients with mental health professionals. Designed, developed, and deployed within 24 hours at Pakathon 2025.  
-> `React` `Node.js` `PostgreSQL` `Prisma`
-
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> **DevOps Capstone (Microservices)**  
-> A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and highly available Kubernetes deployments.  
-> `Docker` `Kubernetes` `Jenkins` `OpenShift`
+> `n8n` `GitHub Actions` `OpenAI` `Python`
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20" /> **AI Real Estate Advisor**  
-> Leveraged Machine Learning to predict property prices in Pakistan. Scraped data and deployed a web portal for investment ROI analysis.  
-> `React` `Flask` `Scikit-learn`
+> Applied ML models to predict property prices in Pakistan, coupled with web scrapers and interactive investment ROI analytics.  
+> `Scikit-learn` `Python` `Flask` `React`
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="20" /> **Therapist Finder** *(1st Place Winner — Pakathon 2025)*  
+> A full-stack health platform connecting patients with verified therapists. Architected, coded, and deployed live under a 24-hour hackathon deadline.  
+> `React` `Node.js` `PostgreSQL` `Prisma`
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> **DevOps Capstone (Microservices Orchestration)**  
+> Production-style microservices suite automated with containers, serverless components, secure CI/CD, and fault-tolerant Kubernetes deployments.  
+> `Docker` `Kubernetes` `Jenkins` `OpenShift`
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="20" /> **ProjectFolio**  
-> A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure and streamlined workflows.  
-> `MongoDB` `Express` `React` `Stripe`
+> Full-featured MERN marketplace featuring Google OAuth and secure Stripe integration.  
+> `MongoDB` `Express` `React` `Node.js` `Stripe`
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
@@ -138,12 +144,12 @@
 
 <blockquote>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> <b>DevSecOps Engineer @ VieroMind</b><br>
-  <i>Implemented CI/CD pipelines with automated testing, linting, and security scanning.</i></p>
+  <i>Implemented resilient CI/CD pipelines with integrated automated testing, linting, and shift-left vulnerability scanning.</i></p>
 </blockquote>
 
 <blockquote>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> <b>Full Stack Intern @ Emumba</b><br>
-  <i>Gained hands-on experience in real-world infrastructure development projects and agile workflows.</i></p>
+  <i>Contributed to scalable full-stack application development, modern cloud infrastructure tasks, and Agile sprint delivery.</i></p>
 </blockquote>
 
 <br>
@@ -171,7 +177,7 @@
 
 <br>
 <p align="center">
-  <i>Let's connect and build secure, scalable solutions together!</i>
+  <i>Let's connect and build secure, intelligent, and scalable solutions together!</i>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave" />
