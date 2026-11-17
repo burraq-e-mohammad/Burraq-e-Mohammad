@@ -21,17 +21,25 @@
 
 ## 🤖 `> boot_sequence.exe`
 
-```text
-         ╭───────╮        > booting burraq.ai ................ [ OK ]
-    ╭────┤ ●   ● ├────╮   > loading agents ................... [ OK ]
-    │    │  ───  │    │   > mounting RAG memory .............. [ OK ]
-    ╰────┤ ╰───╯ ├────╯   > calibrating LoRA adapters ........ [ OK ]
-         ╰───┬───╯        > linking AWS Bedrock .............. [ OK ]
-        ╭────┴────╮       > securing pipeline (shift-left) ... [ OK ]
-        │ [ A I ] │
-        ╰─┬─────┬─╯       > status: READY TO BUILD █
-          ╵     ╵
-```
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="160" alt="3D Animated Robot" />
+    </td>
+    <td>
+      <pre lang="text">
+> booting burraq.ai ................ [ OK ]
+> loading agents ................... [ OK ]
+> mounting RAG memory .............. [ OK ]
+> calibrating LoRA adapters ........ [ OK ]
+> linking AWS Bedrock .............. [ OK ]
+> securing pipeline (shift-left) ... [ OK ]
+
+> status: READY TO BUILD █
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ## 🧬 `whoami`
 
